@@ -1,0 +1,10 @@
+setup.py
+GBiStat/BinomialDistribution.py
+GBiStat/GaussianDistribution.py
+GBiStat/__init__.py
+GBiStat/distribution.py
+GBiStat.egg-info/PKG-INFO
+GBiStat.egg-info/SOURCES.txt
+GBiStat.egg-info/dependency_links.txt
+GBiStat.egg-info/not-zip-safe
+GBiStat.egg-info/top_level.txt
