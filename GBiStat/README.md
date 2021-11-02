@@ -69,5 +69,4 @@ a configuration file for the users to edit to override the original setup file i
 
 ```
 pip install GBiStat
-
 ```
