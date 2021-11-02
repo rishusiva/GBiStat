@@ -1,3 +1,5 @@
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # GBiStat package
 
 A python package to assist programmers with data analysis.
@@ -70,4 +72,11 @@ a configuration file for the users to edit to override the original setup file i
 ```
 pip install GBiStat
 ```
+You can check the package by clicking <a href="https://pypi.org/project/GBiStat/">here</a>
+
+## Author
+* Rishikesh Sivakumar
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Rishikesh Sivakumar](https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/)
+
 
